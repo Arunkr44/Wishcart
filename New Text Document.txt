@@ -1,0 +1,3 @@
+Logo color-    #C99383
+cart --      #040505
+body--   #D7EACC
